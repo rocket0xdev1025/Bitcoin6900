@@ -114,7 +114,7 @@
                         rootClassName: "navigation-links-root-class-name10",
                       }),
                       (0, i.jsx)("a", {
-                        href: "https://t.me/Bitcoin6900_BTC",
+                        href: "https://t.me",
                         target: "_blank",
                         rel: "noreferrer noopener",
                         className: "jsx-af592db951752943",
@@ -222,7 +222,7 @@
                         className: "jsx-af592db951752943 navbar-links",
                         children: [
                           (0, i.jsx)("a", {
-                            href: "https://t.me/Bitcoin6900_BTC",
+                            href: "https://t.me",
                             target: "_blank",
                             rel: "noreferrer noopener",
                             className: "jsx-af592db951752943",
@@ -365,11 +365,11 @@
                       children: [
                         (0, i.jsx)("title", {
                           className: "jsx-d63de760c3d1a9ad",
-                          children: "BITCOIN6900",
+                          children: "Bitcoin 6900",
                         }),
                         (0, i.jsx)("meta", {
                           property: "og:title",
-                          content: "BITCOIN6900",
+                          content: "Bitcoin 6900",
                           className: "jsx-d63de760c3d1a9ad",
                         }),
                       ],
@@ -402,7 +402,7 @@
                                   style: { height: "50%" },
                                   className: "jsx-d63de760c3d1a9ad",
                                   children: (0, i.jsx)("a", {
-                                    href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x44a8e457f6ad30d94e34b2437b9b3d0d89907efa",
+                                    href: "https://swap.pump.fun/?input=So11111111111111111111111111111111111111112&output=TBA",
                                     target: "_blank",
                                     className:
                                       "jsx-d63de760c3d1a9ad header1-text2",
@@ -433,7 +433,7 @@
                                 }),
 
                                 (0, i.jsx)("a", {
-                                  href: "https://t.me/Bitcoin6900_BTC",
+                                  href: "https://t.me",
                                   target: "_blank",
                                   className: "jsx-d63de760c3d1a9ad",
                                   children: (0, i.jsx)("img", {
@@ -442,7 +442,7 @@
                                   }),
                                 }),
                                 (0, i.jsx)("a", {
-                                  href: "https://x.com/Bitcoin6900_BTC",
+                                  href: "https://x.com/i/communities/2039048038027583854",
                                   target: "_blank",
                                   className: "jsx-d63de760c3d1a9ad",
                                   children: (0, i.jsx)("img", {
@@ -613,7 +613,7 @@
                               style: { fontSize: "30px" },
                               className: "jsx-d63de760c3d1a9ad shadow",
                               children:
-                                "0x44a8e457f6ad30d94e34b2437b9b3d0d89907efa",
+                                "TBA",
                             }),
                           ],
                         }),
@@ -628,7 +628,7 @@
                           children: "THIS PROJECT IS BACKED BY",
                         }),
                         (0, i.jsx)("a", {
-                          href: "https://dexscreener.com/ethereum/0x44a8e457f6ad30d94e34b2437b9b3d0d89907efa",
+                          href: "https://dexscreener.com/solana/TBA",
                           target: "_blank",
                           className: "jsx-d63de760c3d1a9ad",
                           children: (0, i.jsx)("img", {
@@ -638,7 +638,7 @@
                           }),
                         }),
                         (0, i.jsx)("a", {
-                          href: "https://www.dextools.io/app/en/ether/pair-explorer/0x44a8e457f6ad30d94e34b2437b9b3d0d89907efa",
+                          href: "https://www.dextools.io/app/en/solana/pair-explorer/TBA",
                           target: "_blank",
                           className: "jsx-d63de760c3d1a9ad",
                           children: (0, i.jsx)("img", {
