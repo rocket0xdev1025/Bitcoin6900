@@ -402,7 +402,7 @@
                                   style: { height: "50%" },
                                   className: "jsx-d63de760c3d1a9ad",
                                   children: (0, i.jsx)("a", {
-                                    href: "https://swap.pump.fun/?input=So11111111111111111111111111111111111111112&output=TBA",
+                                    href: "https://swap.pump.fun/?input=So11111111111111111111111111111111111111112&output=H7VfmYdRZKXmvBU2uGikiFf72UazMDjGopTb1AxBpump",
                                     target: "_blank",
                                     className:
                                       "jsx-d63de760c3d1a9ad header1-text2",
@@ -613,7 +613,7 @@
                               style: { fontSize: "30px" },
                               className: "jsx-d63de760c3d1a9ad shadow",
                               children:
-                                "TBA",
+                                "H7VfmYdRZKXmvBU2uGikiFf72UazMDjGopTb1AxBpump",
                             }),
                           ],
                         }),
@@ -628,7 +628,7 @@
                           children: "THIS PROJECT IS BACKED BY",
                         }),
                         (0, i.jsx)("a", {
-                          href: "https://dexscreener.com/solana/TBA",
+                          href: "https://dexscreener.com/solana/H7VfmYdRZKXmvBU2uGikiFf72UazMDjGopTb1AxBpump",
                           target: "_blank",
                           className: "jsx-d63de760c3d1a9ad",
                           children: (0, i.jsx)("img", {
@@ -638,7 +638,7 @@
                           }),
                         }),
                         (0, i.jsx)("a", {
-                          href: "https://www.dextools.io/app/en/solana/pair-explorer/TBA",
+                          href: "https://www.dextools.io/app/en/solana/pair-explorer/H7VfmYdRZKXmvBU2uGikiFf72UazMDjGopTb1AxBpump",
                           target: "_blank",
                           className: "jsx-d63de760c3d1a9ad",
                           children: (0, i.jsx)("img", {
