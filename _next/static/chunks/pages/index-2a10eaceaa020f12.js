@@ -114,7 +114,7 @@
                         rootClassName: "navigation-links-root-class-name10",
                       }),
                       (0, i.jsx)("a", {
-                        href: "https://t.me",
+                        href: "https://t.me/BTC6900_sol",
                         target: "_blank",
                         rel: "noreferrer noopener",
                         className: "jsx-af592db951752943",
@@ -222,7 +222,7 @@
                         className: "jsx-af592db951752943 navbar-links",
                         children: [
                           (0, i.jsx)("a", {
-                            href: "https://t.me",
+                            href: "https://t.me/BTC6900_sol",
                             target: "_blank",
                             rel: "noreferrer noopener",
                             className: "jsx-af592db951752943",
@@ -402,7 +402,7 @@
                                   style: { height: "50%" },
                                   className: "jsx-d63de760c3d1a9ad",
                                   children: (0, i.jsx)("a", {
-                                    href: "https://swap.pump.fun/?input=So11111111111111111111111111111111111111112&output=H7VfmYdRZKXmvBU2uGikiFf72UazMDjGopTb1AxBpump",
+                                    href: "https://swap.pump.fun/?input=So11111111111111111111111111111111111111112&output=TBA",
                                     target: "_blank",
                                     className:
                                       "jsx-d63de760c3d1a9ad header1-text2",
@@ -433,7 +433,7 @@
                                 }),
 
                                 (0, i.jsx)("a", {
-                                  href: "https://t.me",
+                                  href: "https://t.me/BTC6900_sol",
                                   target: "_blank",
                                   className: "jsx-d63de760c3d1a9ad",
                                   children: (0, i.jsx)("img", {
@@ -442,7 +442,7 @@
                                   }),
                                 }),
                                 (0, i.jsx)("a", {
-                                  href: "https://x.com/i/communities/2039048038027583854",
+                                  href: "https://x.com/BTC6900_sol",
                                   target: "_blank",
                                   className: "jsx-d63de760c3d1a9ad",
                                   children: (0, i.jsx)("img", {
@@ -613,7 +613,7 @@
                               style: { fontSize: "30px" },
                               className: "jsx-d63de760c3d1a9ad shadow",
                               children:
-                                "H7VfmYdRZKXmvBU2uGikiFf72UazMDjGopTb1AxBpump",
+                                "TBA",
                             }),
                           ],
                         }),
@@ -628,7 +628,7 @@
                           children: "THIS PROJECT IS BACKED BY",
                         }),
                         (0, i.jsx)("a", {
-                          href: "https://dexscreener.com/solana/H7VfmYdRZKXmvBU2uGikiFf72UazMDjGopTb1AxBpump",
+                          href: "https://dexscreener.com/solana/TBA",
                           target: "_blank",
                           className: "jsx-d63de760c3d1a9ad",
                           children: (0, i.jsx)("img", {
@@ -638,7 +638,7 @@
                           }),
                         }),
                         (0, i.jsx)("a", {
-                          href: "https://www.dextools.io/app/en/solana/pair-explorer/H7VfmYdRZKXmvBU2uGikiFf72UazMDjGopTb1AxBpump",
+                          href: "https://www.dextools.io/app/en/solana/pair-explorer/TBA",
                           target: "_blank",
                           className: "jsx-d63de760c3d1a9ad",
                           children: (0, i.jsx)("img", {
